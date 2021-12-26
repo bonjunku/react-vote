@@ -14,7 +14,7 @@
 
 ## ✅ 결과물
 
-- Vercel 배포 버전: <a href = "https://react-vote-14th-five.vercel.app/">바로가기</a>
+- Vercel 배포 버전: <a href = "https://react-vote-ruby.vercel.app/">바로가기</a>
 - 현재 백엔드 배포 문제로 Vercel 접근이 원활하지 않습니다.
 - 로컬 실행 방법:
 
