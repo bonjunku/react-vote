@@ -9,7 +9,7 @@
 | <img src ="https://avatars.githubusercontent.com/u/62752488?v=4" width = 150/> | <img src ="https://avatars.githubusercontent.com/u/48646015?v=4" width = 150/> | <img src ="https://avatars.githubusercontent.com/u/90975718?v=4" width = 150/> |
 | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 |                                     구본준                                     |                                     김승우                                     |                                     김윤지                                     |
-|              <a href ="https://github.com/bonjunku">@bonjunku</a>              |         <a href =https://github.com/seungwooKim99">@seungwookim99</a>          |               <a href ="https://github.com/yoonjiy">@yoonjiy</a>               |
+|              <a href ="https://github.com/bonjunku">@bonjunku</a>              |         <a href ="https://github.com/seungwooKim99">@seungwookim99</a>         |               <a href ="https://github.com/yoonjiy">@yoonjiy</a>               |
 |                                   프론트엔드                                   |                                     백엔드                                     |                                     백엔드                                     |
 
 ## ✅ 결과물
